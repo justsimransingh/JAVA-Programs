@@ -47,3 +47,5 @@ ABCDE
 17.Check whether a no is armstrong or not
 
 18.Armstrong no between a given range
+
+19.Check whether a number is palindrome or not
