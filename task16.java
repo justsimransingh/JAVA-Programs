@@ -1,3 +1,4 @@
+//Calculate number of digits
 import java.util.Scanner;
 class task16
 {
