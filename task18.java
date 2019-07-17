@@ -1,4 +1,4 @@
-//Check whether a number is palindrome or not
+//Armstrong no between a given range
 import java.util.Scanner;
 class task18
 {
