@@ -26,10 +26,6 @@ if(i==n)
 {
 System.out.println(n);
 }
-else
-{
-continue;
-}
 }
 }
 }
