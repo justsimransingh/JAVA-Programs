@@ -1,6 +1,6 @@
 //Generate table of specified number
 import java.util.Scanner;
-class task8
+class task9
 {
 public static void main(String[] args)
 {
