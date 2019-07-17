@@ -12,10 +12,8 @@ temp=x;
 temp1=x;
 while(x>0)
 {
-remainder=x%10;
 x=x/10;
-if(remainder!=0)
-	d=d+1;
+d++;
 }
 expo=d;
 while(temp>0)
@@ -30,4 +28,3 @@ else
 	System.out.println("Number is not armstrong");
 }
 }
-	
