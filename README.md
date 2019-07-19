@@ -51,3 +51,7 @@ ABCDE
 19.Check whether a number is palindrome or not
 
 20.Program to check how much time a code take to get execute
+
+21.Find maximum value from an array
+
+22.Find second maximum value from an array
