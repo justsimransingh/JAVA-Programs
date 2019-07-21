@@ -17,7 +17,7 @@ class binarysearch
 		if(search<a[0] || search>a[size-1])
 		{
 			System.out.println("Number not found");
-			exit(0);
+			System.exit(0);
 		}
 		int start=0;
 		int stop=size-1;
