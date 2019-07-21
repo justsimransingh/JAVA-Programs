@@ -55,3 +55,5 @@ ABCDE
 21.Find maximum value from an array
 
 22.Find second maximum value from an array
+
+23.Suppose you have an array like {20,6,40,15,5,7} and the output should be {0,1,0,0,0,1}
