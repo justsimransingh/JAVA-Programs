@@ -34,5 +34,7 @@ class matrixdiagonalsum
 		sum1+=a[row][size-row-1];
 	}
 	System.out.println("Sum of diagonal from right top is " + sum1);
+	int result=sum+sum1;
+	System.out.println("Sum of both diagonals " + result);
 	}
 }
