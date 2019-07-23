@@ -57,3 +57,11 @@ ABCDE
 22.Find second maximum value from an array
 
 23.Suppose you have an array like {20,6,40,15,5,7} and the output should be {0,1,0,0,0,1}
+
+24.Sum of n natural numbers using recursion
+
+25.Fibonacci series using recursion
+
+26.Prime numbers using recursion
+
+27.Factorial using recursion
